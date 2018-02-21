@@ -4,7 +4,7 @@ import { connect } from 'react-redux';
 import './review.css';
 import * as actions from '../../actions';
 
- const Review = (props) => { 
+ export const Review = (props) => { 
   return (
     <div className="review">
     <p className="title">Your Answers: </p>

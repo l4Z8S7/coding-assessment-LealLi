@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render Card component when index is the number between 0 and length of questions 1`] = `
+<div
+  className="App"
+>
+  <Connect(Component) />
+</div>
+`;
+
+exports[`App should render Result component when submiited is true 1`] = `
+<div
+  className="App"
+>
+  <Connect(Component) />
+</div>
+`;
+
+exports[`App should render Review component when navigate to the end 1`] = `
+<div
+  className="App"
+>
+  <Connect(Component) />
+</div>
+`;
+
+exports[`App should render Welcome component when index is -1 1`] = `
+<div
+  className="App"
+>
+  <Connect(Component) />
+</div>
+`;

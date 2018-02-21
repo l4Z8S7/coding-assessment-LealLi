@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Result should render component matching the snapshot 1`] = `
+<div
+  className="result"
+>
+  <p>
+    Congragulations, You have finished the assessment!
+  </p>
+  <p
+    className="score"
+  >
+    Your score is -- 
+    <span>
+      50
+    </span>
+  </p>
+  <p>
+    We will contact you when we have futher information.
+  </p>
+  <p>
+    Thank you!
+  </p>
+</div>
+`;

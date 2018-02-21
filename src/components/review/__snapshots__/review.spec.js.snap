@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Review should render component matching the snapshot 1`] = `
+<div
+  className="review"
+>
+  <p
+    className="title"
+  >
+    Your Answers: 
+  </p>
+  <ul
+    className="answer-list"
+  >
+    <li
+      key="0"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      style={null}
+      tabIndex="1"
+    >
+      <span>
+        <b>
+          1
+        </b>
+         - 
+        <i>
+          A1 of Q1
+        </i>
+      </span>
+    </li>
+  </ul>
+  <button
+    className="btn-submit"
+    onClick={[Function]}
+  >
+    Submit
+  </button>
+</div>
+`;

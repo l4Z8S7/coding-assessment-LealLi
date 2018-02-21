@@ -4,7 +4,7 @@ import { connect } from 'react-redux';
 import './card.css';
 import * as actions from '../../actions';
 
-const Card =  (props) => {
+export const Card =  (props) => {
     const options = Object.keys(props.question.options);
     return (
         <div className="card">

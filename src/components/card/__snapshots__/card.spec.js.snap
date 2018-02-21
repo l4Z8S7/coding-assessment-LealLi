@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card should render component matching the snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="arrow arrow-left"
+    onClick={[Function]}
+    onKeyPress={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#848591",
+        "pointerEvents": "none",
+      }
+    }
+    tabIndex="1"
+  >
+    <i
+      className="fa fa-angle-left"
+    />
+  </div>
+  <div
+    className="question"
+  >
+    <div
+      className="title"
+    >
+      Q1
+    </div>
+    <ul
+      className="options"
+    >
+      <li
+        className=""
+        key="Opt1"
+        onClick={[Function]}
+        onKeyPress={[Function]}
+        tabIndex="1"
+      >
+        <span>
+          Opt1
+        </span>
+      </li>
+      <li
+        className=""
+        key="Opt2"
+        onClick={[Function]}
+        onKeyPress={[Function]}
+        tabIndex="1"
+      >
+        <span>
+          Opt2
+        </span>
+      </li>
+    </ul>
+  </div>
+  <div
+    className="arrow arrow-right"
+    onClick={[Function]}
+    onKeyPress={[Function]}
+    tabIndex="1"
+  >
+    <i
+      className="fa fa-angle-right"
+    />
+  </div>
+</div>
+`;

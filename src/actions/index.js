@@ -8,7 +8,7 @@ import {
 } from './types';
 
 export const fetchQuestions = () => dispatch => {
-  fetch('questions.json')
+  return fetch('questions.json')
   .then(res => res.json())
   .then(data => dispatch({ type: FETCH_QUESTIONS, payload: data }));
 };

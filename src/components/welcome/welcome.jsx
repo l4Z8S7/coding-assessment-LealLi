@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import './welcome.css';
 import * as actions from '../../actions';
 
-const Welcome =  (props) => {
+export const Welcome =  (props) => {
   return (
     <div className="welcome">
       <p>Welcome to the assessment!</p>

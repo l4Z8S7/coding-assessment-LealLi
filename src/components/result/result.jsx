@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import './result.css';
 
-const Result = props => {
+export const Result = props => {
   return (
     <div className="result">
       <p>Congragulations, You have finished the assessment!</p>
