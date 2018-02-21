@@ -1,0 +1,74 @@
+.card {
+  border: 2px solid #260ba9;
+  border-radius: 8px;
+  width: 80%;
+  min-width: 400px;
+  min-height: 200px;
+  margin: auto;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: stretch;
+  box-shadow: 9px 12px #595b61; 
+}
+
+.card .arrow {
+  min-width: 50px;
+  font-size: 36px;
+  background-color: #66a1f4;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.card .arrow-left {
+  border-radius: 8px 0 0 8px;
+}
+
+.card .arrow-right {
+  border-radius: 0 8px 8px 0;
+}
+
+.card .question {
+  width: 100%;
+}
+
+.card .question .title {
+  font-size: 24px;
+  font-weight: bold;
+  padding: 10px;
+  border-bottom: 1px double #0b0238;
+}
+
+.card .question .options {
+  height: min-content;
+  margin: 10px;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; 
+}
+
+.card .question .options li {
+  margin-bottom: 5px;
+  height: min-content;
+  border: 1px solid #29365a;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.card .question .options li.selected {
+  margin-bottom: 5px;
+  height: min-content;
+  background-color: #b2c5ee;
+  border: 1px solid #29365a;
+  border-radius: 5px;
+}
+
+.card .question .options li span {
+  font-size: 16px;
+  padding: 5px;
+  display: inline-block;
+}

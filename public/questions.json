@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse finibus tincidunt urna, ut eleifend arcu luctus in. Vestibulum pharetra elit viverra nibh porttitor, vel mattis elit fermentum.",
+    "options": {
+      "Quisque quis elit in ligula hendrerit interdum nec ac quam. Aenean quam enim, eleifend sed ullamcorper non, egestas eu lacus.": 2,
+      "Phasellus aliquam pretium arcu, vitae mattis sem pulvinar at. Fusce iaculis ipsum quis ante faucibus mollis. Ut fringilla leo in nibh faucibus tristique.": 8,
+      "Mauris ultrices pharetra commodo. Vivamus eu faucibus nunc. Curabitur quis tellus in ex venenatis luctus.": 4
+    }
+  },
+  {
+    "title": "Nullam convallis varius magna, eu gravida dolor dignissim eu. Aliquam condimentum enim sit amet mi scelerisque, quis feugiat nunc rhoncus.",
+    "options": {
+      "Ut ac tincidunt elit. Etiam sodales lacus vel diam tincidunt bibendum. Mauris congue quis ipsum sit amet commodo. Quisque dignissim ultricies velit vel molestie.": 3,
+      "Vivamus aliquam massa eu risus ullamcorper finibus. Aenean sed dictum lectus, at bibendum metus. Sed sollicitudin pharetra leo at suscipit.": 12,
+      "Sed tempor hendrerit nisi vitae euismod. Donec justo odio, lobortis eu tristique sed, pellentesque egestas dui. Cras eget odio vel enim dapibus vestibulum.": 6,
+      "Cras at est purus. Aenean interdum tortor vel sodales ultricies. Quisque luctus tortor eget fringilla volutpat. Aliquam finibus venenatis convallis.": 9
+    }
+  },
+  {
+    "title": "Curabitur nec lacinia tellus. Suspendisse bibendum pharetra felis, non mollis magna venenatis non. Vestibulum vel bibendum mauris.",
+    "options": {
+      "Donec mollis vulputate hendrerit.": 3,
+      "Vivamus a eleifend dui.": 1,
+      "Curabitur molestie lorem vulputate neque tempus, tristique vehicula quam dictum.": 6,
+      "Praesent condimentum, nunc et dapibus mattis, felis ante mollis urna, non feugiat tortor eros at elit.": 7,
+      "Donec dui justo, pharetra vitae suscipit nec, dictum malesuada erat.": 5,
+      "Vivamus nec euismod orci.": 2,
+      "Curabitur hendrerit dapibus auctor.": 4
+    }
+  },
+  {
+    "title": "Mauris pulvinar dolor dui, sed rutrum arcu lacinia a. Curabitur consectetur dapibus ultricies. Maecenas imperdiet dui ut purus vestibulum ultrices.",
+    "options": {
+      "Nam ipsum nunc, porttitor vel est eget, dignissim tincidunt enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.": 5,
+      "Mauris fermentum tortor sed arcu posuere posuere. Ut eu eros elit. Quisque facilisis sapien et justo rhoncus porta. Maecenas elementum, mi ac iaculis faucibus, est nibh faucibus odio, a pulvinar tellus sapien et ligula.": 10
+    }
+  },
+  {
+    "title": "Sed scelerisque purus ac vehicula blandit. Duis dictum condimentum neque sit amet elementum. Integer nunc eros, ornare id elementum at, sagittis nec diam. ",
+    "options": {
+      "Sed porttitor sem nulla, ut iaculis diam hendrerit vitae. Cras non est eu leo suscipit suscipit. Donec hendrerit libero a feugiat pellentesque.": 8,
+      "Curabitur tempor, lorem nec lacinia mattis, dolor nunc accumsan tortor, eu ullamcorper nisl nunc sed neque. Mauris vehicula eros dui, et ornare ligula varius sed. ": 4,
+      "Quisque interdum, purus elementum congue sagittis, arcu lectus iaculis justo, quis finibus odio massa a nibh. Nunc iaculis porttitor lectus.": 12,
+      "Aliquam facilisis fermentum laoreet. Fusce aliquet dolor mauris, eget blandit leo auctor vel. Morbi tristique lacus eget pretium sagittis.": 16
+    }
+  }
+]

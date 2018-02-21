@@ -1,0 +1,47 @@
+.review {
+  width: 90%;
+  min-width: 360px;
+  margin: auto;
+  border: 2px solid #3333ab;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 9px 12px #595b61;
+}
+
+.review .title {
+   font-size: 24px;
+   margin: 0 0 20px 0;
+   padding: 20px 0 5px 0;
+   border-bottom: 4px solid #3333ab;
+}
+
+.review .answer-list {
+  list-style-type: none;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+
+.review .answer-list li {
+  border-bottom: 1px solid #151541;
+  height: min-content;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.review .answer-list li span {
+  font-size: 16px;
+}
+
+.review .btn-submit {
+  border: 1px solid #3333ab;
+  border-radius: 50%;
+  background-color: #5dbb49;
+  font-size: 20px;
+  padding: 20px;
+  margin-top: 20px;
+}
